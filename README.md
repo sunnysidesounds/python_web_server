@@ -6,4 +6,4 @@ Script Syntax:
 
 ```python server.py <port> ```
 
-If not port is declared, a default port of 8000 will be used. 
+If no port is declared, a default port of 8000 will be used. 
