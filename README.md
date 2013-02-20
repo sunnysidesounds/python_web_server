@@ -1,4 +1,4 @@
-## Simple Web Server built with Python?
+## Simple Web Server built with Python
 
 A very simple web server built in about 25 lines of code. 
 
